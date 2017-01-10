@@ -146,7 +146,6 @@ module.exports = library.export(
     SetOfMaterials.prototype.cut =
       function(material, cut, size, options) {
         var name = options.name
-        console.log("cutting "+options.name+" from "+material.description)
         if (material.cut && cut != material.cut) {
           throw new Error("trying to cut material the wrong way")
         }
