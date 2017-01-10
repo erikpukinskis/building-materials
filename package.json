@@ -1,6 +1,6 @@
 {
   "name": "building-materials",
-  "version": "0.11.0",
+  "version": "0.0.0",
   "description": "Takes a house plan and tells you what materials you need to build it",
   "main": "building-materials.js",
   "dependencies": {
