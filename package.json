@@ -1,0 +1,14 @@
+{
+  "name": "building-materials",
+  "version": "0.11.0",
+  "description": "Takes a house plan and tells you what materials you need to build it",
+  "main": "building-materials.js",
+  "dependencies": {
+    "module-library": "*",
+    "house-plan": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/erikpukinskis/building-materials.git"
+  }
+}
